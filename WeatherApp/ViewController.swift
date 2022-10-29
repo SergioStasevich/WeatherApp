@@ -1,19 +1,13 @@
-//
-//  ViewController.swift
-//  WeatherApp
-//
-//  Created by Siarhei Stasevich on 25/10/2022.
-//
-
 import UIKit
+import Foundation
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+      
+      
     }
 
 
 }
-
